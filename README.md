@@ -1,5 +1,5 @@
 
-Sample https://nba-app-50e9a.firebaseapp.com/
+You can see a live demo here:  https://nba-app-50e9a.firebaseapp.com/
 
 ## Folder Structure
 
